@@ -1,0 +1,17 @@
+{
+  "name": "waterdog",
+  "type": "PROXY",
+  "language": "JAVA",
+  "url": "https://github.com/WaterdogPE/WaterdogPE/releases/download/%version%/Waterdog.jar",
+  "bridge": "waterdog-bridge",
+  "bridgePath": "plugins",
+  "defaultStartPort": 19132,
+  "versions": [
+    {
+      "version": "latest"
+    }
+  ],
+  "tasks": [
+    "WATERDOG_SETUP_TASK"
+  ]
+}

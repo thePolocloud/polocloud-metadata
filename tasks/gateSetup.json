@@ -1,0 +1,55 @@
+{
+  "name": "GATE_SETUP",
+  "steps": [
+    {
+      "name": "Setup gate",
+      "description": "Setup the motd",
+      "filename": "config.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "config.status.motd",
+        "value": "§b§lPolocloud §8- §7Simple and lightweight §8- §f%version%\n§8» §7GitHub§8: §f§ngithub.polocloud.de"
+      }
+    },
+    {
+      "name": "Setup bind",
+      "description": "Setup the port and hostname",
+      "filename": "config.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "config.bind",
+        "value": "%hostname%:%port%"
+      }
+    },
+    {
+      "name": "Set server icon",
+      "description": "Set server icon as base64",
+      "filename": "config.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "config.status.favicon",
+        "value": "%server_icon%"
+      }
+    },
+    {
+      "name": "Set velocity",
+      "description": "Setup gate to support velocity forwarding",
+      "filename": "config.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "config.forwarding.mode",
+        "value": "velocity"
+      }
+    },
+    {
+      "name": "Set velocitySecret",
+      "description": "Set velocitySecret into config",
+      "filename": "config.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "config.forwarding.velocitySecret",
+        "value": "%velocityProxyToken%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "NUKKIT_SETUP_TASK",
+  "steps": [
+    {
+      "name": "Motd",
+      "description": "Change the motd",
+      "filename": "server.properties",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "motd",
+        "fileMode": "IF_NOT_EXISTS",
+        "value": "§b§lPolocloud §8- §7Simple and lightweight §8- §f%version%\n§8» §7GitHub§8: §f§ngithub.polocloud.de"
+      }
+    },
+    {
+      "name": "Setup nukkit",
+      "description": "Skips the setup and sets the language to English",
+      "filename": "nukkit.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "settings.language",
+        "value": "eng"
+      }
+    },
+    {
+      "name": "Update server port",
+      "description": "Change Server Port",
+      "filename": "server.properties",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "server-port",
+        "value": "%port%"
+      }
+    },
+    {
+      "name": "Disable Xbox Auth",
+      "description": "Disables Xbox Auth, because we have waterdog",
+      "filename": "server.properties",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "xbox-auth",
+        "value": "off"
+      }
+    }
+  ]
+}

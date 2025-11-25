@@ -1,0 +1,23 @@
+{
+  "name": "pumpkin",
+  "type": "SERVER",
+  "language": "RUST",
+  "url": "https://github.com/Pumpkin-MC/Pumpkin/archive/%commitHash%.zip",
+  "arguments": [
+  ],
+  "tasks": [
+    "PUMPKIN_CONFIG_TASK"
+  ],
+  "preTasks": [
+    "BUILD_PUMPKIN_TASK"
+  ],
+  "flags": [],
+  "versions": [
+    {
+      "version": "1.21.8",
+      "commitHash": "8feb6c9b934779898a0d8315dcab2e586743a787",
+      "requiredRuntimeVersion": ">=1.89.0"
+    }
+  ],
+  "setFileName": false
+}

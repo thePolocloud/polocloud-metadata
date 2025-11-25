@@ -1,0 +1,63 @@
+{
+  "name": "waterfall",
+  "type": "PROXY",
+  "language": "JAVA",
+  "url": "https://fill-data.papermc.io/v1/objects/954b48b95a4300e1493aaa0c9532fc4a89d38136d74ccfb6df8c2b60eea48ee6/waterfall-1.21-598.jar",
+  "bridge": "bungeecord-bridge",
+  "bridgePath": "plugins",
+  "shutdownCommand": "end",
+  "defaultStartPort": 25565,
+  "tasks": [
+    "BUNGEECORD_SETUP_TASK"
+  ],
+  "versions": [
+    {
+      "version": "latest",
+      "buildId": "-1"
+    },
+    {
+      "version": "1.21",
+      "buildId": "600"
+    },
+    {
+      "version": "1.20",
+      "buildId": "578"
+    },
+    {
+      "version": "1.19",
+      "buildId": "535"
+    },
+    {
+      "version": "1.18",
+      "buildId": "488"
+    },
+    {
+      "version": "1.17",
+      "buildId": "454"
+    },
+    {
+      "version": "1.16",
+      "buildId": "431"
+    },
+    {
+      "version": "1.15",
+      "buildId": "350"
+    },
+    {
+      "version": "1.14",
+      "buildId": "301"
+    },
+    {
+      "version": "1.13",
+      "buildId": "276"
+    },
+    {
+      "version": "1.12",
+      "buildId": "185"
+    },
+    {
+      "version": "1.11",
+      "buildId": "108"
+    }
+  ]
+}

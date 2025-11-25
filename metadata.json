@@ -1,0 +1,38 @@
+{
+  "platforms": [
+    "paper",
+    "velocity",
+    "waterfall",
+    "bungeecord",
+    "nukkit",
+    "limbo",
+    "pumpkin",
+    "gate",
+    "purpur",
+    "leaf",
+    "fabric",
+    "folia",
+    "advancedslimepaper",
+    "waterdog",
+    "pandaspigot"
+  ],
+  "tasks": [
+    "eula",
+    "spigotSetup",
+    "gateSetup",
+    "velocityProxyToken",
+    "paperProxySupport",
+    "velocitySetup",
+    "buildPumpkin",
+    "limboSetup",
+    "limboVelocitySupport",
+    "nukkitSetup",
+    "paperLoadDependencies",
+    "pumpkinSetup",
+    "setupBungeecord",
+    "fabricDownloadDependencies",
+    "paperSetup",
+    "waterdogSetup",
+    "fabricVelocitySupport"
+  ]
+}
