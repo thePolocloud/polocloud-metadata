@@ -14,9 +14,9 @@
   "flags": [],
   "versions": [
     {
-      "version": "1.21.8",
-      "commitHash": "8feb6c9b934779898a0d8315dcab2e586743a787",
-      "requiredRuntimeVersion": ">=1.89.0"
+      "version": "1.21.10",
+      "commitHash": "2e4ffa96ba67a350edac80c0713134b7e4168fc8",
+      "requiredRuntimeVersion": ">=1.91.1"
     }
   ],
   "setFileName": false
