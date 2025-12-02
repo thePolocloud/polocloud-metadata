@@ -4,7 +4,7 @@
   "language": "JAVA",
   "url": "https://api.papermc.io/v2/projects/velocity/versions/%version%/builds/%buildId%/downloads/velocity-%version%-%buildId%.jar",
   "bridge": {
-      "id": "velocity-bridge",
+      "id": "bridge-velocity",
       "version": "8.0.0-pre.8-SNAPSHOT"
   },
   "bridgePath": "plugins",

@@ -3,7 +3,10 @@
   "type": "PROXY",
   "language": "JAVA",
   "url": "https://github.com/WaterdogPE/WaterdogPE/releases/download/%version%/Waterdog.jar",
-  "bridge": "waterdog-bridge",
+  "bridge": {
+    "id": "bridge-waterdog",
+    "version": "8.0.0-pre.8-SNAPSHOT"
+  },
   "bridgePath": "plugins",
   "defaultStartPort": 19132,
   "versions": [

@@ -18,7 +18,10 @@
       "version": "0.51.0"
     }
   ],
-  "bridge": "gate-bridge",
+  "bridge": {
+    "id": "bridge-gate",
+    "version": "8.0.0-pre.8-SNAPSHOT"
+  },
   "osNameMapping": {
     "WIN": "windows",
     "LINUX": "linux",

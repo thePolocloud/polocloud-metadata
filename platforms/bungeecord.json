@@ -3,7 +3,10 @@
   "type": "PROXY",
   "language": "JAVA",
   "url": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar",
-  "bridge": "bungeecord-bridge",
+  "bridge": {
+    "id": "bridge-bungeecord",
+    "version": "8.0.0-pre.8-SNAPSHOT"
+  },
   "bridgePath": "plugins",
   "shutdownCommand": "end",
   "defaultStartPort": 25565,

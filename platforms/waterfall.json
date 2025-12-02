@@ -3,7 +3,10 @@
   "type": "PROXY",
   "language": "JAVA",
   "url": "https://fill-data.papermc.io/v1/objects/954b48b95a4300e1493aaa0c9532fc4a89d38136d74ccfb6df8c2b60eea48ee6/waterfall-1.21-598.jar",
-  "bridge": "bungeecord-bridge",
+  "bridge": {
+    "id": "bridge-bungeecord",
+    "version": "8.0.0-pre.8-SNAPSHOT"
+  },
   "bridgePath": "plugins",
   "shutdownCommand": "end",
   "defaultStartPort": 25565,
