@@ -3,7 +3,10 @@
   "type": "PROXY",
   "language": "JAVA",
   "url": "https://api.papermc.io/v2/projects/velocity/versions/%version%/builds/%buildId%/downloads/velocity-%version%-%buildId%.jar",
-  "bridge": "velocity-bridge",
+  "bridge": {
+      "id": "velocity-bridge",
+      "version": "8.0.0-pre.8-SNAPSHOT"
+  },
   "bridgePath": "plugins",
   "defaultStartPort": 25565,
   "tasks": [
@@ -13,7 +16,7 @@
   "versions": [
     {
       "version": "3.4.0-SNAPSHOT",
-      "buildId": "557"
+      "buildId": 557
     },
     {
       "version": "3.3.0-SNAPSHOT",
