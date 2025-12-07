@@ -5,7 +5,7 @@
   "url": "https://github.com/WaterdogPE/WaterdogPE/releases/download/%version%/Waterdog.jar",
   "bridge": {
     "id": "bridge-waterdog",
-    "version": "8.0.0-pre.8-SNAPSHOT"
+    "version": "3.0.0-pre.8-SNAPSHOT"
   },
   "bridgePath": "plugins",
   "defaultStartPort": 19132,
