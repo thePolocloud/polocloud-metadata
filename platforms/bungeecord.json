@@ -5,7 +5,7 @@
   "url": "https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar",
   "bridge": {
     "id": "bridge-bungeecord",
-    "version": "8.0.0-pre.8-SNAPSHOT"
+    "version": "3.0.0-pre.8-SNAPSHOT"
   },
   "bridgePath": "plugins",
   "shutdownCommand": "end",
