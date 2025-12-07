@@ -20,7 +20,7 @@
   ],
   "bridge": {
     "id": "bridge-gate",
-    "version": "8.0.0-pre.8-SNAPSHOT"
+    "version": "3.0.0-pre.8-SNAPSHOT"
   },
   "osNameMapping": {
     "WIN": "windows",
