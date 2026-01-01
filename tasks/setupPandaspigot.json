@@ -1,0 +1,16 @@
+{
+  "name": "SETUP_PANDASPIGOT",
+  "steps": [
+    {
+      "name": "Enable bungeecord",
+      "description": "Setup bungeecord mode for proxy instance",
+      "filename": "spigot.yml",
+      "action": {
+        "type": "PlatformFilePropertyUpdateAction",
+        "key": "settings.bungeecord",
+        "fileMode": "EVERY",
+        "value": "true"
+      }
+    }
+  ]
+}
