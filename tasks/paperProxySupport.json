@@ -5,6 +5,7 @@
       "name": "Change velocity proxy token",
       "description": "Set up the Velocity proxy token by writing to the file.",
       "filename": "config/paper-global.yml",
+	  "forwardingFilter": "MODERN",
       "action": {
         "type": "PlatformFilePropertyUpdateAction",
         "key": "proxies.velocity.enabled",
@@ -15,6 +16,7 @@
       "name": "Change velocity proxy token",
       "description": "Set up the Velocity proxy token by writing to the file.",
       "filename": "config/paper-global.yml",
+	  "forwardingFilter": "MODERN",
       "action": {
         "type": "PlatformFilePropertyUpdateAction",
         "key": "proxies.velocity.secret",
@@ -28,7 +30,7 @@
       "action": {
         "type": "PlatformFilePropertyUpdateAction",
         "key": "settings.bungeecord",
-        "value": "%bungeecord_use%"
+        "value": "%use_legacy_forwarding%"
       }
     }
   ]
