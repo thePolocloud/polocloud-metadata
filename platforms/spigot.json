@@ -12,6 +12,14 @@
   ],
   "versions": [
     {
+      "version": "1.21.11",
+      "buildId": "AfuyQcEkLcPU9p6jitBdBkGotQvy8ghM"
+    },
+    {
+      "version": "1.21.10",
+      "buildId": "7Nsht2lVBEOXZbp9okiacncpLKvZFKi4"
+    },
+    {
       "version": "1.21.8",
       "buildId": "8smOqbVnSl8RvSvlvkSNsUxEv0Y3g7Vo"
     },

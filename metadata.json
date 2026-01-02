@@ -33,6 +33,7 @@
     "fabricDownloadDependencies",
     "paperSetup",
     "waterdogSetup",
-    "fabricVelocitySupport"
+    "fabricVelocitySupport",
+    "setupPandaspigot"
   ]
 }

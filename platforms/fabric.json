@@ -2,7 +2,7 @@
   "name": "fabric",
   "type": "SERVER",
   "language": "JAVA",
-  "url": "https://meta.fabricmc.net/v2/versions/loader/%version%/%buildId%/1.0.3/server/jar",
+  "url": "https://meta.fabricmc.net/v2/versions/loader/%version%/%buildId%/1.1.1/server/jar",
   "bridge": {
     "id": "bridge-fabric",
     "version": "3.0.0-pre.8-SNAPSHOT"
@@ -20,8 +20,8 @@
   "versions": [
     {
       "version": "1.21.11",
-      "buildId": "0.16.14",
-      "fabricAPIVersion": "0.131.0"
+      "buildId": "0.18.4",
+      "fabricAPIVersion": "0.140.2"
     },
     {
       "version": "1.21.8",
