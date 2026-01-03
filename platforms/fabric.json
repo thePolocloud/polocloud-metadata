@@ -24,6 +24,16 @@
       "fabricAPIVersion": "0.140.2"
     },
     {
+      "version": "1.21.10",
+      "buildId": "0.18.4",
+      "fabricAPIVersion": "0.138.4"
+    },
+    {
+      "version": "1.21.9",
+      "buildId": "0.18.4",
+      "fabricAPIVersion": "0.134.1"
+    },
+    {
       "version": "1.21.8",
       "buildId": "0.16.14",
       "fabricAPIVersion": "0.131.0"
