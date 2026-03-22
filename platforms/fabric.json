@@ -4,7 +4,7 @@
   "language": "JAVA",
   "url": "https://meta.fabricmc.net/v2/versions/loader/%version%/%buildId%/1.1.1/server/jar",
   "bridge": {
-    "id": "polocloud-bridge-fabric",
+    "id": "bridge-fabric",
     "version": "3.0.0-pre.8-SNAPSHOT"
   },
   "bridgePath": "mods",
