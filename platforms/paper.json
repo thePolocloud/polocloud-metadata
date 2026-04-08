@@ -39,6 +39,10 @@
   ],
   "versions": [
     {
+      "version": "26.1.1",
+      "buildId": 29
+    },
+    {
       "version": "1.9.4",
       "buildId": 775
     },
