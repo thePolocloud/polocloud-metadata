@@ -2,7 +2,7 @@
   "name": "velocity",
   "type": "PROXY",
   "language": "JAVA",
-  "url": "https://api.papermc.io/v2/projects/velocity/versions/%version%/builds/%buildId%/downloads/velocity-%version%-%buildId%.jar",
+  "url": "%downloadUrl%",
   "bridge": {
       "id": "bridge-velocity",
       "version": "3.0.0-pre.8-SNAPSHOT"
@@ -16,43 +16,53 @@
   "versions": [
     {
       "version": "3.5.0-SNAPSHOT",
-      "buildId": 585
+      "buildId": 585,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/3b85f84a1f84e509d6c513a90e424f7a11836ba6184b7fc459e060b98b975d12/velocity-3.5.0-SNAPSHOT-588.jar"
     },
     {
       "version": "3.4.0-SNAPSHOT",
-      "buildId": 559
+      "buildId": 559,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/559/downloads/velocity-3.4.0-SNAPSHOT-559.jar"
     },
     {
       "version": "3.3.0-SNAPSHOT",
-      "buildId": 436
+      "buildId": 436,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/436/downloads/velocity-3.3.0-SNAPSHOT-436.jar"
     },
     {
       "version": "3.2.0-SNAPSHOT",
-      "buildId": 296
+      "buildId": 296,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.2.0-SNAPSHOT/builds/296/downloads/velocity-3.2.0-SNAPSHOT-296.jar"
     },
     {
       "version": "3.1.2-SNAPSHOT",
-      "buildId": 207
+      "buildId": 207,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.2-SNAPSHOT/builds/207/downloads/velocity-3.1.2-SNAPSHOT-207.jar"
     },
     {
       "version": "3.1.1-SNAPSHOT",
-      "buildId": 97
+      "buildId": 97,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.1-SNAPSHOT/builds/97/downloads/velocity-3.1.1-SNAPSHOT-97.jar"
     },
     {
       "version": "3.1.1",
-      "buildId": 102
+      "buildId": 102,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.1/builds/102/downloads/velocity-3.1.1-102.jar"
     },
     {
       "version": "3.1.0",
-      "buildId": 95
+      "buildId": 95,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/3.1.0/builds/95/downloads/velocity-3.1.0-95.jar"
     },
     {
       "version": "1.1.9",
-      "buildId": 447
+      "buildId": 447,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/1.1.9/builds/447/downloads/velocity-1.1.9-447.jar"
     },
     {
       "version": "1.0.10",
-      "buildId": 245
+      "buildId": 245,
+      "downloadUrl": "https://api.papermc.io/v2/projects/velocity/versions/1.0.10/builds/245/downloads/velocity-1.0.10-245.jar"
     }
   ]
 }
