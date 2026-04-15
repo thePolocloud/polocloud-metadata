@@ -39,6 +39,11 @@
   ],
   "versions": [
     {
+      "version": "26.1.2",
+      "buildId": 5,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/3b4e1bb2a358a25b8bcea83e1cfa1d03313dda7e615f202195ca6172e6cef9eb/paper-26.1.2-5.jar"
+    },
+    {
       "version": "26.1.1",
       "buildId": 29,
       "downloadUrl": "https://fill-data.papermc.io/v1/objects/43d08ed52c7af4e9f72769122501a5c15f99c7ace0c428a3eef040fd3f6fdbc5/paper-26.1.1-29.jar"
