@@ -38,6 +38,11 @@
   ],
   "versions": [
     {
+      "version": "1.21.11",
+      "version_hash": "042263b0-c9cc-46b8-b192-34dc2eba2d57",
+      "hash": "03d7d7bc-0ac7-4fe6-a6a3-1d6d5ccd68d1"
+    },
+    {
       "version": "1.21.10",
       "version_hash": "8d09f9b0-1039-4d13-9f05-894e5bfc1cc4",
       "hash": "d364b69b-2180-4be7-955b-931b8dad19b6"
