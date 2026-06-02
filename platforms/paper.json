@@ -40,8 +40,8 @@
   "versions": [
     {
       "version": "26.1.2",
-      "buildId": 5,
-      "downloadUrl": "https://fill-data.papermc.io/v1/objects/3b4e1bb2a358a25b8bcea83e1cfa1d03313dda7e615f202195ca6172e6cef9eb/paper-26.1.2-5.jar"
+      "buildId": 68,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/f98af46f7254b6de3a8c2301f10a482ffc0e37e74569d794831357d56749baf4/paper-26.1.2-68.jar"
     },
     {
       "version": "26.1.1",
@@ -115,8 +115,8 @@
     },
     {
       "version": "1.21.11",
-      "buildId": 69,
-      "downloadUrl": "https://api.papermc.io/v2/projects/paper/versions/1.21.11/builds/69/downloads/paper-1.21.11-69.jar"
+      "buildId": 132,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/5ffef465eeeb5f2a3c23a24419d97c51afd7dbb4923ff42df9a3f58bba1ccfba/paper-1.21.11-132.jar"
     },
     {
       "version": "1.21.10",
