@@ -38,8 +38,12 @@
   ],
   "versions": [
     {
+      "version": "26.1.2",
+      "buildId": "2589"
+    },
+    {
       "version": "1.21.11",
-      "buildId": "2545"
+      "buildId": "2568"
     },
     {
       "version": "1.21.10",

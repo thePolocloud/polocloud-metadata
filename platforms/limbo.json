@@ -13,9 +13,19 @@
   ],
   "versions": [
     {
+      "version": "26.1.2",
+      "jarVersion": "2026.0.1-ALPHA",
+      "buildId": "74"
+    },
+    {
+      "version": "1.21.11",
+      "jarVersion": "0.7.18-ALPHA",
+      "buildId": "71"
+    },
+    {
       "version": "1.21.10",
       "jarVersion": "0.7.16-ALPHA",
-      "buildId": "64"
+      "buildId": "65"
     },
     {
       "version": "1.21.8",
