@@ -15,9 +15,19 @@
   ],
   "versions": [
     {
+      "version": "4.0.0-SNAPSHOT",
+      "buildId": 4,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/c490dee73dd632c17abbb2e4c365e63a8943e7438586d17d23c41f125108c485/velocity-4.0.0-SNAPSHOT-4.jar"
+    },
+    {
+      "version": "3.5.1",
+      "buildId": 615,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/b4e3164df5377346854dc6cb9e6a78022b1946ff69e89676313f5f6f1c6f0fb3/velocity-3.5.1-615.jar"
+    },
+    {
       "version": "3.5.0-SNAPSHOT",
-      "buildId": 601,
-      "downloadUrl": "https://fill-data.papermc.io/v1/objects/0407642d1ed2883100eb823c2805523f191fa637db1f42ac0ec7ef29cbe455a9/velocity-3.5.0-SNAPSHOT-601.jar"
+      "buildId": 609,
+      "downloadUrl": "https://fill-data.papermc.io/v1/objects/0c3d16b70ed757638b696a9a87d670b4301f23a6fef30c3acbbd9b0e0d7b29bb/velocity-3.5.0-SNAPSHOT-609.jar"
     },
     {
       "version": "3.4.0-SNAPSHOT",
